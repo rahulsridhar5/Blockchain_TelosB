@@ -1,0 +1,29 @@
+obj_native/sicslowmac.o: \
+ /home/overlord/contiki-2.7/core/net/mac/sicslowmac.c \
+ /home/overlord/contiki-2.7/core/./net/mac/sicslowmac.h \
+ /home/overlord/contiki-2.7/core/./net/mac/rdc.h \
+ /home/overlord/contiki-2.7/platform/native/./contiki-conf.h \
+ /home/overlord/contiki-2.7/platform/native/./ctk/ctk-curses.h \
+ /home/overlord/contiki-2.7/core/./net/mac/mac.h \
+ /home/overlord/contiki-2.7/core/./dev/radio.h \
+ /home/overlord/contiki-2.7/core/./net/mac/frame802154.h \
+ /home/overlord/contiki-2.7/core/./net/rime/rimeaddr.h \
+ /home/overlord/contiki-2.7/core/./net/packetbuf.h \
+ /home/overlord/contiki-2.7/core/./net/queuebuf.h \
+ /home/overlord/contiki-2.7/core/./net/netstack.h \
+ /home/overlord/contiki-2.7/core/./net/mac/framer.h \
+ /home/overlord/contiki-2.7/core/./lib/random.h
+ /home/overlord/contiki-2.7/core/net/mac/sicslowmac.c :
+ /home/overlord/contiki-2.7/core/./net/mac/sicslowmac.h :
+ /home/overlord/contiki-2.7/core/./net/mac/rdc.h :
+ /home/overlord/contiki-2.7/platform/native/./contiki-conf.h :
+ /home/overlord/contiki-2.7/platform/native/./ctk/ctk-curses.h :
+ /home/overlord/contiki-2.7/core/./net/mac/mac.h :
+ /home/overlord/contiki-2.7/core/./dev/radio.h :
+ /home/overlord/contiki-2.7/core/./net/mac/frame802154.h :
+ /home/overlord/contiki-2.7/core/./net/rime/rimeaddr.h :
+ /home/overlord/contiki-2.7/core/./net/packetbuf.h :
+ /home/overlord/contiki-2.7/core/./net/queuebuf.h :
+ /home/overlord/contiki-2.7/core/./net/netstack.h :
+ /home/overlord/contiki-2.7/core/./net/mac/framer.h :
+ /home/overlord/contiki-2.7/core/./lib/random.h :
