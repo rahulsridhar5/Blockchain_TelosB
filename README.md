@@ -1,4 +1,4 @@
-# Blockchain on the TelosB Mote
+# Blockchain based Data Storage System on the TelosB Mote
 ### Implementation of a Blockchain based Data Storage System on the TelosB mote simulated on Contiki 2.7
 
 This is a simulation of an "proof of concept" for running a Blockchain network on the TelosB mote using Contiki 2.7 to store sensor data.
